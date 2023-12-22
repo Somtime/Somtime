@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somtime&label=Profile%20views&color=0e75b6&style=flat" alt="somtime" /> </p>
 
-- 🔭 I’m currently working on [렌트킹](https://www.rentking.co.kr/)
+- 🔭 I’m currently working on [강은소프트](http://kangeunsoft.com/)
 
 - 🌱 I’m currently learning **NestJs, TypeScript**
 
